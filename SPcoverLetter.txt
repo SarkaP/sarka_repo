@@ -1,0 +1,14 @@
+I was looking for a creative and original way of writing this cover letter.
+Once I've decided a bash script could be a really cool idea I needed to learn how to use it first...
+
+So, you would like to know what excites me about testing:
+- Looking through the patterns
+- Proving the code has vulnerabilities
+- Bypassing the criteria/logic written by the developer
+- Manipulating the backend data or the system set up and seeing the effects in the UI which means 
+  I have to use the shell and that's awesome!!!
+
+What is it I am interested in:
+- Studying the client's risks in their business scenarios 
+- Recreating the problem and finding a solution to make sure it doesn't happen again
+- I would love to learn all the great tools and skills Penetration testers/hackers use to break in (and of course Kali!)

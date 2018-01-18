@@ -1,2 +1,3 @@
-# sarka_repo
-Sarka Git Hub Projects
+#Author: Sarka P
+
+This is where all the magic happens
